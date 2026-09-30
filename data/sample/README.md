@@ -1,0 +1,1 @@
+All documents are original synthetic fixtures, released under this repository MIT license. No real vendors, transactions or personal data. Scans are rasterized synthetic documents, not a representative scanner dataset. Regenerate with `uv run python scripts/generate_samples.py`.

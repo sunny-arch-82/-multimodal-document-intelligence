@@ -1,0 +1,301 @@
+[
+  {
+    "file": "native_invoice.pdf",
+    "document_type": "invoice",
+    "review_required": false,
+    "fields": {
+      "vendor": "Atlas Demo Supplies",
+      "customer": "Demo Workshop",
+      "document_number": "INV-1001",
+      "document_date": "2026-09-01",
+      "currency": "USD",
+      "subtotal": "100.00",
+      "tax": "10.00",
+      "total": "110.00"
+    },
+    "line_items": [
+      {
+        "description": "Cable kit",
+        "quantity": "2",
+        "unit_price": "50.00",
+        "amount": "100.00"
+      }
+    ],
+    "evidence_pages": {
+      "total": 1,
+      "vendor": 1
+    }
+  },
+  {
+    "file": "scanned_invoice.png",
+    "document_type": "invoice",
+    "review_required": false,
+    "fields": {
+      "vendor": "Atlas Demo Supplies",
+      "customer": "Demo Workshop",
+      "document_number": "INV-1001",
+      "document_date": "2026-09-01",
+      "currency": "USD",
+      "subtotal": "100.00",
+      "tax": "10.00",
+      "total": "110.00"
+    },
+    "line_items": [
+      {
+        "description": "Cable kit",
+        "quantity": "2",
+        "unit_price": "50.00",
+        "amount": "100.00"
+      }
+    ],
+    "evidence_pages": {
+      "total": 1,
+      "vendor": 1
+    }
+  },
+  {
+    "file": "scanned_invoice.jpg",
+    "document_type": "invoice",
+    "review_required": false,
+    "fields": {
+      "vendor": "Atlas Demo Supplies",
+      "customer": "Demo Workshop",
+      "document_number": "INV-1001",
+      "document_date": "2026-09-01",
+      "currency": "USD",
+      "subtotal": "100.00",
+      "tax": "10.00",
+      "total": "110.00"
+    },
+    "line_items": [
+      {
+        "description": "Cable kit",
+        "quantity": "2",
+        "unit_price": "50.00",
+        "amount": "100.00"
+      }
+    ],
+    "evidence_pages": {
+      "total": 1,
+      "vendor": 1
+    }
+  },
+  {
+    "file": "scanned_invoice.pdf",
+    "document_type": "invoice",
+    "review_required": false,
+    "fields": {
+      "vendor": "Atlas Demo Supplies",
+      "customer": "Demo Workshop",
+      "document_number": "INV-1001",
+      "document_date": "2026-09-01",
+      "currency": "USD",
+      "subtotal": "100.00",
+      "tax": "10.00",
+      "total": "110.00"
+    },
+    "line_items": [
+      {
+        "description": "Cable kit",
+        "quantity": "2",
+        "unit_price": "50.00",
+        "amount": "100.00"
+      }
+    ],
+    "evidence_pages": {
+      "total": 1,
+      "vendor": 1
+    }
+  },
+  {
+    "file": "credit_note.pdf",
+    "document_type": "credit_note",
+    "review_required": false,
+    "fields": {
+      "vendor": "Atlas Demo Supplies",
+      "customer": "Demo Workshop",
+      "document_number": "CN-1001",
+      "document_date": "2026-09-01",
+      "currency": "USD",
+      "subtotal": "100.00",
+      "tax": "10.00",
+      "total": "110.00"
+    },
+    "line_items": [
+      {
+        "description": "Cable kit",
+        "quantity": "2",
+        "unit_price": "50.00",
+        "amount": "100.00"
+      }
+    ],
+    "evidence_pages": {
+      "total": 1,
+      "vendor": 1
+    }
+  },
+  {
+    "file": "table_invoice.pdf",
+    "document_type": "invoice",
+    "review_required": false,
+    "fields": {
+      "vendor": "Atlas Demo Supplies",
+      "customer": "Demo Workshop",
+      "document_number": "INV-1001",
+      "document_date": "2026-09-01",
+      "currency": "USD",
+      "subtotal": "120.00",
+      "tax": "12.00",
+      "total": "132.00"
+    },
+    "line_items": [
+      {
+        "description": "Part 1",
+        "quantity": "1",
+        "unit_price": "10.00",
+        "amount": "10.00"
+      },
+      {
+        "description": "Part 2",
+        "quantity": "1",
+        "unit_price": "10.00",
+        "amount": "10.00"
+      },
+      {
+        "description": "Part 3",
+        "quantity": "1",
+        "unit_price": "10.00",
+        "amount": "10.00"
+      },
+      {
+        "description": "Part 4",
+        "quantity": "1",
+        "unit_price": "10.00",
+        "amount": "10.00"
+      },
+      {
+        "description": "Part 5",
+        "quantity": "1",
+        "unit_price": "10.00",
+        "amount": "10.00"
+      },
+      {
+        "description": "Part 6",
+        "quantity": "1",
+        "unit_price": "10.00",
+        "amount": "10.00"
+      },
+      {
+        "description": "Part 7",
+        "quantity": "1",
+        "unit_price": "10.00",
+        "amount": "10.00"
+      },
+      {
+        "description": "Part 8",
+        "quantity": "1",
+        "unit_price": "10.00",
+        "amount": "10.00"
+      },
+      {
+        "description": "Part 9",
+        "quantity": "1",
+        "unit_price": "10.00",
+        "amount": "10.00"
+      },
+      {
+        "description": "Part 10",
+        "quantity": "1",
+        "unit_price": "10.00",
+        "amount": "10.00"
+      },
+      {
+        "description": "Part 11",
+        "quantity": "1",
+        "unit_price": "10.00",
+        "amount": "10.00"
+      },
+      {
+        "description": "Part 12",
+        "quantity": "1",
+        "unit_price": "10.00",
+        "amount": "10.00"
+      }
+    ],
+    "evidence_pages": {
+      "total": 2,
+      "vendor": 1
+    }
+  },
+  {
+    "file": "incomplete_invoice.pdf",
+    "document_type": "invoice",
+    "review_required": true,
+    "fields": {
+      "vendor": "Atlas Demo Supplies",
+      "customer": "Demo Workshop",
+      "document_number": "INV-1001",
+      "document_date": null,
+      "currency": null,
+      "subtotal": "100.00",
+      "tax": "10.00",
+      "total": "110.00"
+    },
+    "line_items": [
+      {
+        "description": "Cable kit",
+        "quantity": "2",
+        "unit_price": "50.00",
+        "amount": "100.00"
+      }
+    ],
+    "evidence_pages": {
+      "total": 1,
+      "vendor": 1
+    }
+  },
+  {
+    "file": "conflicting_invoice.pdf",
+    "document_type": "invoice",
+    "review_required": true,
+    "fields": {
+      "vendor": "Atlas Demo Supplies",
+      "customer": "Demo Workshop",
+      "document_number": "INV-1001",
+      "document_date": "2026-09-01",
+      "currency": "USD",
+      "subtotal": "100.00",
+      "tax": "10.00",
+      "total": "110.00"
+    },
+    "line_items": [
+      {
+        "description": "Cable kit",
+        "quantity": "2",
+        "unit_price": "50.00",
+        "amount": "100.00"
+      }
+    ],
+    "evidence_pages": {
+      "total": 1,
+      "vendor": 1
+    }
+  },
+  {
+    "file": "ambiguous_attachment.pdf",
+    "document_type": "supporting_attachment",
+    "review_required": true,
+    "fields": {
+      "vendor": null,
+      "customer": null,
+      "document_number": null,
+      "document_date": null,
+      "currency": null,
+      "subtotal": null,
+      "tax": null,
+      "total": null
+    },
+    "line_items": [],
+    "evidence_pages": {}
+  }
+]
